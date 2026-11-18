@@ -26,7 +26,7 @@ Global Solution 2026.2 — CitizenTech — FIAP — Engenharia de Software (3º 
 | Werbeth Nunes | 559067 |
 | Larissa Biusse | 564068 |
 
-## Vídeo do app rodando (até 3 minutos)
+## Vídeo do app rodando 
 
 https://youtube.com/shorts/g67uAk5qDLE?feature=share
 
