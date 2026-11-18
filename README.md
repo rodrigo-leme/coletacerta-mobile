@@ -12,7 +12,6 @@ Global Solution 2026.2 — CitizenTech — FIAP — Engenharia de Software (3º 
 | **Problema, em uma frase** | O morador vê a lixeira da rua transbordando e não tem um jeito simples de avisar e acompanhar o pedido de coleta. |
 | **Como funciona** | Um sensor mede o quanto cada lixeira está cheia. No app, o morador consulta as lixeiras do bairro, registra uma solicitação de coleta em poucos toques e acompanha a situação do pedido. |
 | **O que cada parte faz** | **App (Mobile):** consulta das lixeiras, registro e acompanhamento das solicitações. **Sensor (Physical Computing):** ESP32 mede o nível da lixeira. **Segurança (Cybersecurity):** protege os dados pessoais enviados pelo cidadão. **IA/ML:** analisa as reclamações públicas de coleta do SP156. |
-| **Link do repositório** | _colar aqui o link do GitHub_ |
 | **Indicador de impacto** | Quantidade de solicitações registradas e quantas foram marcadas como "Coletada" no bairro |
 | **ODS conectados** | **ODS 11** (Cidades e comunidades sustentáveis): melhora a gestão de resíduos do bairro. **ODS 3** (Saúde e bem-estar): menos lixo acumulado, menos risco de doenças. |
 
