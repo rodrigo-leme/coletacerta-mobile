@@ -28,7 +28,7 @@ Global Solution 2026.2 — CitizenTech — FIAP — Engenharia de Software (3º 
 
 ## Vídeo do app rodando (até 3 minutos)
 
-[_colar aqui o link do vídeo_](https://youtube.com/shorts/g67uAk5qDLE?feature=share)
+https://youtube.com/shorts/g67uAk5qDLE?feature=share
 
 ## O que o app faz
 
